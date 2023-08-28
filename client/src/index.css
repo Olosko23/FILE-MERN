@@ -1,0 +1,16 @@
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+ul{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    list-style: none;
+    align-items: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
